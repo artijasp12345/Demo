@@ -1,0 +1,7 @@
+
+@Functionalnterface
+
+public interface School{
+
+         void m1();
+}
