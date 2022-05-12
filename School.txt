@@ -4,4 +4,5 @@
 public interface School{
 
          void m1();
+         void m3();
 }
